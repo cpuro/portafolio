@@ -27,6 +27,7 @@ const ProjectCard = ({ project }) => {
         </div>
 
         <div className="flex space-x-3">
+          {project.liveUrl && (
           <a
             href={project.liveUrl}
             target="_blank"
@@ -35,6 +36,8 @@ const ProjectCard = ({ project }) => {
           >
             Ver Proyecto
           </a>
+          )}
+          {project.githubUrl && (
           <a
             href={project.githubUrl}
             target="_blank"
@@ -57,6 +60,7 @@ const ProjectCard = ({ project }) => {
             </svg>
             GitHub
           </a>
+          )}
         </div>
       </div>
     </div>

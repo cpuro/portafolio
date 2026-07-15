@@ -22,7 +22,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="min-h-screen flex items-center justify-center bg-gradient-to-b from-background to-muted"
+      className="flex items-center justify-center bg-gradient-to-b from-background to-muted pt-4 md:pt-8"
     >
       <div className="container mx-auto px-6 flex flex-col-reverse md:flex-row items-center justify-between">
         <div className="md:w-1/2 text-center md:text-left animate-fade-in">

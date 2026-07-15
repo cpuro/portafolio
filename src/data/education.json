@@ -1,0 +1,60 @@
+{
+  "studies": [
+    {
+      "id": 1,
+      "title": "Especialización en Inteligencia Artificial",
+      "institution": "Uniminuto",
+      "period": "En curso — 2026"
+    },
+    {
+      "id": 2,
+      "title": "Ingeniería Electrónica",
+      "institution": "Universidad Industrial de Santander",
+      "period": "2018"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "title": "IBM AI Developer Professional Certificate",
+      "issuer": "IBM / Coursera",
+      "year": "2026",
+      "detail": "Programa de 10 cursos: Python, IA generativa, prompt engineering, Flask, HTML/CSS/JS e ingeniería de software."
+    },
+    {
+      "id": 2,
+      "title": "Foundations of Coding Full-Stack",
+      "issuer": "Microsoft / Coursera",
+      "year": "2025",
+      "detail": "Fundamentos de programación fullstack."
+    },
+    {
+      "id": 3,
+      "title": "Inteligencia Artificial y Deep Learning desde cero en Python",
+      "issuer": "Udemy",
+      "year": "2025",
+      "detail": "27 horas de formación práctica."
+    },
+    {
+      "id": 4,
+      "title": "Análisis de Datos Básico",
+      "issuer": "Certificación",
+      "year": "2025",
+      "detail": "Fundamentos de análisis de datos."
+    },
+    {
+      "id": 5,
+      "title": "C# Curso Completo para ser programador .NET",
+      "issuer": "Udemy",
+      "year": "2023",
+      "detail": "33 horas de formación práctica."
+    },
+    {
+      "id": 6,
+      "title": "C# en Profundidad",
+      "issuer": "Udemy",
+      "year": "2023",
+      "detail": "8.5 horas de formación práctica."
+    }
+  ]
+}

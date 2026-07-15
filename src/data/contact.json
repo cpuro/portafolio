@@ -1,25 +1,15 @@
 {
-  "email": "jane.doe@example.com",
+  "email": "puellocristhian@gmail.com",
   "socialMedia": [
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/janedoe",
+      "url": "https://www.linkedin.com/in/purocristhian",
       "icon": "linkedin"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/janedoe",
+      "url": "https://github.com/cpuro",
       "icon": "github"
-    },
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/janedoe",
-      "icon": "twitter"
-    },
-    {
-      "name": "Instagram",
-      "url": "https://instagram.com/janedoe.dev",
-      "icon": "instagram"
     }
   ]
 }

@@ -16,9 +16,10 @@ const Navbar = () => {
   }, []);
 
   const navLinks = [
-    { name: "Inicio", href: "#home" },
     { name: "Sobre Mí", href: "#about" },
+    { name: "Habilidades", href: "#skills" },
     { name: "Proyectos", href: "#projects" },
+    { name: "Educación", href: "#education" },
     { name: "Contacto", href: "#contact" },
   ];
 
@@ -32,7 +33,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-6 flex justify-between items-center">
         <a href="#home" className="text-xl font-bold text-primary">
-          Portfolio
+          CRISTHIAN ANDRES PUELLO ROJAS
         </a>
 
         {/* Desktop Navigation */}
@@ -41,9 +42,10 @@ const Navbar = () => {
             <a
               key={index}
               href={link.href}
-              className="text-foreground hover:text-secondary transition-colors"
+              className="text-foreground hover:text-secondary hover:underline transition-all relative group"
             >
               {link.name}
+              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-secondary group-hover:w-full transition-all duration-300"></span>
             </a>
           ))}
         </div>

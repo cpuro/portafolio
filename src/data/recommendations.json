@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "author": "Juan García",
+    "position": "Gerente de Proyectos",
+    "company": "Tech Solutions Inc.",
+    "text": "Cristhian es un desarrollador extremadamente talentoso y dedicado. Su atención al detalle y capacidad para resolver problemas complejos lo hacen invaluable en cualquier equipo.",
+    "avatar": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "author": "María López",
+    "position": "Líder Técnico",
+    "company": "Digital Innovations",
+    "text": "Trabajar con Cristhian fue una experiencia fantástica. Combina habilidades técnicas sólidas con excelentes habilidades de comunicación. Recomendado al 100%.",
+    "avatar": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": 3,
+    "author": "Carlos Rodríguez",
+    "position": "CTO",
+    "company": "StartUp Ventures",
+    "text": "Cristhian demuestra iniciativa y pasión por el aprendizaje continuo. Es profesional, responsable y entrega resultados de alta calidad en plazo.",
+    "avatar": "https://i.pravatar.cc/150?img=3"
+  }
+]

@@ -1,38 +1,29 @@
 [
   {
     "id": 1,
-    "name": "E-commerce Platform",
-    "description": "Plataforma de comercio electrónico completa con catálogo de productos, carrito de compras y procesamiento de pagos.",
-    "image": "https://images.unsplash.com/photo-1661956602116-aa6865609028?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxzZWFyY2h8MXx8ZWNvbW1lcmNlfGVufDB8fDB8fHww",
-    "liveUrl": "https://myecommerce-project.netlify.app",
-    "githubUrl": "https://github.com/janedoe/ecommerce-platform",
-    "tags": ["React", "Node.js", "MongoDB", "Stripe"]
+    "name": "Mercado Campesino Digital",
+    "description": "Plataforma web fullstack para la comercialización de productos campesinos, desarrollada por contrato para la Corporación Paso a Paso. Interfaces responsivas y consumo de APIs REST.",
+    "image": "/capmercadocamepesino.png",
+    "liveUrl": "https://mercado-campesino-digital.vercel.app/",
+    "githubUrl": "https://github.com/cpuro/mercado-campesino-digital",
+    "tags": ["React", "JavaScript", "HTML5", "CSS"]
   },
   {
     "id": 2,
-    "name": "Task Manager App",
-    "description": "Aplicación de gestión de tareas con funcionalidades de arrastrar y soltar, filtros y alertas.",
-    "image": "https://images.unsplash.com/photo-1504292004442-f285299403fa?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "liveUrl": "https://task-manager-app.vercel.app",
-    "githubUrl": "https://github.com/janedoe/task-manager",
-    "tags": ["React", "Redux", "Firebase", "TailwindCSS"]
+    "name": "Web corporativa Paso a Paso",
+    "description": "Sitio web corporativo a la medida para la Corporación Paso a Paso, con diseño responsivo y técnicas de optimización SEO conforme a estándares actuales de calidad.",
+    "image": "/capcoporacionpasoapaso.png",
+    "liveUrl": "https://www.corporacionpasoapaso.com/",
+    "githubUrl": null,
+    "tags": ["React", "Tailwind CSS", "JavaScript", "SEO"]
   },
   {
     "id": 3,
-    "name": "Weather Dashboard",
-    "description": "Panel de control del clima que muestra pronósticos actuales y futuros para múltiples ubicaciones.",
-    "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2VhdGhlcnxlbnwwfHwwfHx8MA%3D%3D",
-    "liveUrl": "https://weather-dashboard-app.netlify.app",
-    "githubUrl": "https://github.com/janedoe/weather-dashboard",
-    "tags": ["JavaScript", "OpenWeather API", "Chart.js"]
-  },
-  {
-    "id": 4,
-    "name": "Blog CMS",
-    "description": "Sistema de gestión de contenidos para blogs con editor WYSIWYG y gestión de usuarios.",
-    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D",
-    "liveUrl": "https://blog-cms-demo.herokuapp.com",
-    "githubUrl": "https://github.com/janedoe/blog-cms",
-    "tags": ["React", "Express", "MongoDB", "JWT"]
+    "name": "CRUD PHP",
+    "description": "Aplicación web de gestión de registros con operaciones de crear, leer, actualizar y eliminar sobre base de datos.",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=500&auto=format&fit=crop&q=60",
+    "liveUrl": null,
+    "githubUrl": "https://github.com/cpuro/crudphp",
+    "tags": ["PHP", "MySQL", "CRUD"]
   }
 ]

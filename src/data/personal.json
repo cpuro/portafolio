@@ -1,7 +1,7 @@
 {
-  "name": "Jane Doe",
-  "profession": "Desarrolladora Full Stack",
-  "shortBio": "Creo soluciones web innovadoras utilizando tecnologías modernas y enfoque centrado en el usuario.",
-  "fullBio": "Soy una desarrolladora Full Stack con más de 5 años de experiencia especializada en crear aplicaciones web dinámicas y responsivas. Me apasiona combinar las mejores prácticas de frontend y backend para construir experiencias de usuario excepcionales.\n\nA lo largo de mi carrera, he trabajado con diversas tecnologías como React, Node.js, Express y MongoDB, siempre buscando la mejor solución para cada proyecto. Me mantengo constantemente actualizada con las nuevas tendencias y herramientas del desarrollo web.\n\nMi enfoque está en crear código limpio, mantenible y escalable, con especial atención al rendimiento y la experiencia de usuario. Disfruto trabajando en equipo y aportando soluciones creativas a problemas complejos.",
-  "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D"
+  "name": "Cristhian Andres Puello Rojas",
+  "profession": "Desarrollador Full Stack",
+  "shortBio": "Desarrollador Full Stack enfocado en JavaScript y React. Creo soluciones web modernas, responsivas y centradas en el usuario.",
+  "fullBio": "Soy un desarrollador Full Stack enfocado en JavaScript y React, con experiencia construyendo plataformas y sitios web completos: desde la interfaz (HTML5, CSS, Tailwind) hasta el backend (Node.js, Python) y el consumo de APIs REST.\n\nHe desarrollado proyectos reales como Mercado Campesino Digital y el sitio web corporativo de la Corporación Paso a Paso, aplicando interfaces responsivas, optimización SEO y control de versiones con Git y GitHub. Además, tengo formación en inteligencia artificial (IBM AI Developer Professional Certificate y Especialización en IA en curso) y background en ingeniería electrónica, lo que aporta pensamiento lógico y capacidad de resolución de problemas.\n\nMi enfoque está en escribir código limpio, mantenible y escalable, con especial atención al rendimiento y la experiencia de usuario. Disfruto trabajar en equipo y aprender continuamente nuevas tecnologías.",
+  "avatarUrl": "/fotodm.jpg"
 }
