@@ -16,14 +16,5 @@
     "liveUrl": "https://www.corporacionpasoapaso.com/",
     "githubUrl": null,
     "tags": ["React", "Tailwind CSS", "JavaScript", "SEO"]
-  },
-  {
-    "id": 3,
-    "name": "CRUD PHP",
-    "description": "Aplicación web de gestión de registros con operaciones de crear, leer, actualizar y eliminar sobre base de datos.",
-    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=500&auto=format&fit=crop&q=60",
-    "liveUrl": null,
-    "githubUrl": "https://github.com/cpuro/crudphp",
-    "tags": ["PHP", "MySQL", "CRUD"]
   }
 ]
