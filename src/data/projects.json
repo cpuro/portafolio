@@ -16,5 +16,14 @@
     "liveUrl": "https://www.corporacionpasoapaso.com/",
     "githubUrl": null,
     "tags": ["React", "Tailwind CSS", "JavaScript", "SEO"]
+  },
+  {
+    "id": 3,
+    "name": "Web corporativa Pragma Proyectos",
+    "description": "Sitio web corporativo a la medida para Pragma Proyectos S.A.S., empresa de ingeniería para la industria y la infraestructura. Rutas por sectores y servicios, animaciones con Motion, formulario de cotización y diseño responsivo.",
+    "image": "/cappragmaproyectos.png",
+    "liveUrl": "https://pragmapro.co/",
+    "githubUrl": "https://github.com/cpuro/pragma-web",
+    "tags": ["React 19", "Vite", "Tailwind CSS", "Motion", "React Router"]
   }
 ]
